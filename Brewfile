@@ -1,0 +1,5 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "swiftformat"
+brew "swiftlint"
+brew "ImageMagick"

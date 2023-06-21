@@ -1,0 +1,45 @@
+"form.section.title.label" = "Titel";
+
+"form.section.title.textfield.title.label" = "Titel";
+
+"form.section.description.label" = "Beschreibung";
+
+"form.section.teaser.label" = "Kurzbeschreibung";
+
+"form.section.goal.label" = "Ziel";
+
+"form.section.goal.picker.goal-type.label" = "Zielart";
+
+"form.section.goal.picker.goal-type.progress.label" = "Fortschritt";
+
+"form.section.goal.picker.goal-type.progress.stepper.times" = "%d mal";
+
+"form.section.goal.picker.goal-type.measurement.label" = "Messung";
+
+"form.section.goal.picker.goal-type.measurement.unit" = "Einheit";
+
+"form.section.details.label" = "Details";
+
+"form.section.details.picker.interval.label" = "Erfassung erfolgt";
+
+"form.section.details.picker.start.label" = "Beginnt am";
+
+"form.section.details.picker.end.label" = "Läuft bis";
+
+"form.section.details.toggle.is-public.label" = "Mit Freunden teilen";
+
+"title" = "Erstelle deine Challenge";
+
+"button.next" = "Weiter";
+
+"button.cancel" = "Abbrechen";
+
+"form.section.details.is-public.hint" = "Ich willige ein, dass der Inhalt der Challenge, sowie mein Nickname, mein Standort und mein Fortschritt anderen Nutzer:innen der App angezeigt werden. Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden.";
+
+"form.section.details.picker.interval.daily" = "Täglich";
+
+"form.section.details.picker.interval.weekly" = "Wöchentlich";
+
+"button.keyboard.done" = "Fertig";
+
+"edit.hint" = "Du kannst diese Vorlage individuell an\U00ADpassen.";
